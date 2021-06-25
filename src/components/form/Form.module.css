@@ -1,0 +1,21 @@
+.formContainer {
+    background-color: #ecedf1;
+    border-radius: 12px;
+}
+.formGroupAdd {
+    position: relative;
+}
+.areaIcon {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    pointer-events: none;
+    color: #c0c1c9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 1rem;
+}
+.icon {
+}

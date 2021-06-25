@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 0,
+            "title": "Wash the dishes"
+        },
+        {
+            "id": 1,
+            "title": "Eat 2 plates"
+        },
+        {
+            "id": 2,
+            "title": "Vomit the dishes and cry"
+        },
+        {
+            "id": 3,
+            "title": "Try to stop crying..."
+        },
+        {
+            "id": 4,
+            "title": "Keep on crying."
+        }
+    ]
+}

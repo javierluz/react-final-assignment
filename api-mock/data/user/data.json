@@ -1,0 +1,17 @@
+{
+    "id": 6,
+    "data": [
+        {
+            "name": "Javier",
+            "username": "javier_santaolalla",
+            "email": "javier.s@gmail.com",
+            "password": "123.123"
+        },
+        {
+            "name": "Claudio",
+            "username": "claudio.rojas",
+            "email": "claudio.r@gmail.com",
+            "password": "123.123"
+        }
+    ]
+}
